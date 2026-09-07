@@ -2,7 +2,7 @@
 #define pi 3.14
 int main() {
     float radius, area, circumference;
-    #float pi = 3.14159;
+    //float pi = 3.14159;
 
     // Prompt user for radius
     printf("Enter the radius of the circle: ");
